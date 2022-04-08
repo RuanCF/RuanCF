@@ -38,7 +38,7 @@
 
 ## 🚀Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" align="center" alt="c"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -53,6 +53,9 @@
 
 
 ## ⭐ Informações
-[![card](https://github-readme-stats.vercel.app/api?username=RuanCF&theme=Radical)](https://github.com/RuanCF/)
-
-[![RuanCF](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCF&hide=html&layout=compact=true&theme=Radical)](https://github.com/RuanCF/)
+<p align="center">
+<a href="https://github.com/RuanCF/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RuanCF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RuanCF&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
