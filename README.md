@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💌 Links para contato: ⤵️
+  💌 <strong>Links para contato:</strong> ⤵️
 </p>
 
 <p align="left">
