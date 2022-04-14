@@ -4,7 +4,9 @@
 
 <p align="left"> 
   Meu nome é Ruan, tenho 21 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
+  
   Meus focos de estudo são mais voltados para Front-End, atualmente é a área que mais tenho interesse.
+  
   Uma das minhas paixões são Machine Learning, Deep Learning, IAs.
 </p>
 
