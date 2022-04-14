@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Ruan, tenho 21 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
+  Meus focos de estudo são mais voltados para Front-End, atualmente é a área que mais tenho interesse.
+  Uma das minhas paixões são Machine Learning, Deep Learning, IAs.
 </p>
 
 <p align="left">
