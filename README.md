@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Meu nome é Ruan, tenho 21 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
+  Eu sou o Ruan, tenho 21 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
   
   Meus focos de estudo são mais voltados para Front-End, atualmente é a área que mais tenho interesse.
   
