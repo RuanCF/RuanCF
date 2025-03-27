@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Eu sou o Ruan, tenho 23 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
+  Eu sou o Ruan, tenho 24 anos, Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas na Fatec de Cruzeiro.
   
   Uma das minhas paixões são Machine Learning, Deep Learning, IAs.
 </p>
